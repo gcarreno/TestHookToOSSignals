@@ -1,4 +1,4 @@
-# The Hook To OS Signals
+# Hooking To OS Signals
 [![Build Status](https://github.com/gcarreno/TestHookToOSSignals/actions/workflows/main.yaml/badge.svg?branch=main)](https://github.com/gcarreno/TestHookToOSSignals/actions)
 [![Supports Windows](https://img.shields.io/badge/support-Windows-blue?logo=Windows)](https://github.com/gcarreno/TestHookToOSSignals/releases/latest)
 [![Supports Linux](https://img.shields.io/badge/support-Linux-yellow?logo=Linux)](https://github.com/gcarreno/TestHookToOSSignals/releases/latest)
