@@ -2,6 +2,10 @@ program TestHookToOSSignals;
 
 {$mode objfpc}{$H+}
 
+{$IFDEF MSWindows}
+{$APPTYPE Console}
+{$ENDIF}
+
 uses
   {$IFDEF UNIX}
   cthreads,
