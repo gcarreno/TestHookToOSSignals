@@ -47,7 +47,7 @@ jobs:
             ],
             "lazarus-versions": [
               "stable",
-              "3.6"
+              "3.4"
             ]
           }
         }'
